@@ -81,7 +81,7 @@ GitHub Pages:
 Push the repository to GitHub.
 Go to repository Settings > Pages.
 Set the source to the main branch and root directory.
-Access the site at https://imanmukhlisin.github.io/portfolio.
+Access the site at [https://imanmukhlisin.github.io/portfolio.](https://imanmukhlisin.github.io/Portofolio-/)
 
 
 Netlify:
