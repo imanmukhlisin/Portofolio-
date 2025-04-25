@@ -36,13 +36,6 @@ A modern web browser (e.g., Chrome, Firefox).
 A code editor (e.g., VS Code) for modifications (optional).
 Git installed (if cloning the repository).
 
-Installation
-
-Clone the Repository (if hosted on GitHub):
-git clone https://github.com/imanmukhlisin/portfolio.git
-cd portfolio
-
-
 Open the Project:
 
 No server is required since this is a static website.
