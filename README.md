@@ -1,4 +1,4 @@
-Iman Mukhlisin Portfolio
+
 Welcome to my personal portfolio website! This project showcases my skills, experiences, and projects as an Information Systems student specializing in UI/UX design and web development.
 Overview
 
